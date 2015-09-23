@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps</string>
+
+    <string name="Enter_A_Number">Enter a number between 1 and 100</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
